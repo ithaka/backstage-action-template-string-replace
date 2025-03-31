@@ -1,0 +1,48 @@
+{
+  "name": "@ithaka/backstage-action-string-replace",
+  "version": "0.1.0",
+  "repository": "https://github.com/backstage-action-string-replace.git",
+  "description": "A Backstage scaffolder action for string replacement in a template",
+  "keywords": [],
+  "author": "ITHAKA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ithaka/backstage-action-string-replace/issues"
+  },
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest src --maxWorkers=50%",
+    "format": "prettier . --write",
+    "lint": "tsc --noEmit",
+    "build": "tsc --project tsconfig.build.json",
+    "clean": "rm -rf ./lib/",
+    "ci:test:format": "prettier . --check",
+    "ci:test:lint": "tsc --noEmit",
+    "ci:test:unit": "jest src --runInBand --coverage",
+    "prepack": "yarn clean && yarn build && pinst --disable",
+    "postpack": "pinst --enable",
+    "postinstall": "husky install"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.5",
+    "husky": "^9.1.7",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "lint-staged": "^15.4.3",
+    "pinst": "^3.0.0",
+    "prettier": "^3.5.2",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.7.3"
+  },
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "@backstage/plugin-scaffolder-node": "^0.7.0",
+    "@backstage/types": "^1.2.1",
+    "fs-extra": "^11.3.0"
+  }
+}

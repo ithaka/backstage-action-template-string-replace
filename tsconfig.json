@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./lib",
+
+    "module": "CommonJS",
+    "lib": ["esnext", "dom"],
+    "target": "es6",
+
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+
+    "inlineSourceMap": true,
+    "declaration": true,
+
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+
+    "skipLibCheck": true
+  }
+}

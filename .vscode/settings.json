@@ -1,0 +1,10 @@
+{
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "jestrunner.jestCommand": "yarn jest",
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs"
+}
