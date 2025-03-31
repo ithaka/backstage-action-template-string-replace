@@ -1,7 +1,7 @@
 # backstage-action-template-string-replace
 
 A custom Backstage scaffolder action to perform string replacements in files.
-This action is useful for templating and customizing files during the scaffolding process where the normal nunjucks templating delimiters prevent you from using some tooling in your project
+This action is useful for templating and customizing files during the scaffolding process where the normal nunjucks templating delimiters prevent you from using some tooling in your project.
 
 ## Usage
 
@@ -18,8 +18,8 @@ Here is an example of how to use the action in a template:
       name: Replace template string values
       action: ithaka:template-string-replace
       input:
-        replacementStrings:
-		 # You can also replace file content
+        replacementStrings
+          # You can also replace file content
           name:
             searchTerm: my-template-name
             replacementTerm: ${{ parameters.name }}
