@@ -1,0 +1,4 @@
+{
+  "*": ["prettier --write --ignore-unknown"],
+  "src/**/*.ts": ["yarn test --bail --findRelatedTests"]
+}
