@@ -3992,6 +3992,19 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["es-set-tostringtag", [\
+      ["npm:2.1.0", {\
+        "packageLocation": "./.yarn/cache/es-set-tostringtag-npm-2.1.0-4e55705d3f-86814bf8af.zip/node_modules/es-set-tostringtag/",\
+        "packageDependencies": [\
+          ["es-set-tostringtag", "npm:2.1.0"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["hasown", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["escalade", [\
       ["npm:3.2.0", {\
         "packageLocation": "./.yarn/cache/escalade-npm-3.2.0-19b50dd48f-9d7169e396.zip/node_modules/escalade/",\
@@ -4383,12 +4396,14 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["form-data", [\
-      ["npm:4.0.1", {\
-        "packageLocation": "./.yarn/cache/form-data-npm-4.0.1-f1a27a1c2e-6adb1cff55.zip/node_modules/form-data/",\
+      ["npm:4.0.4", {\
+        "packageLocation": "./.yarn/cache/form-data-npm-4.0.4-10eb4ef9c3-a4b62e2193.zip/node_modules/form-data/",\
         "packageDependencies": [\
-          ["form-data", "npm:4.0.1"],\
+          ["form-data", "npm:4.0.4"],\
           ["asynckit", "npm:0.4.0"],\
           ["combined-stream", "npm:1.0.8"],\
+          ["es-set-tostringtag", "npm:2.1.0"],\
+          ["hasown", "npm:2.0.2"],\
           ["mime-types", "npm:2.1.35"]\
         ],\
         "linkType": "HARD"\
@@ -4675,6 +4690,16 @@ const RAW_RUNTIME_STATE =
       ["npm:1.1.0", {\
         "packageLocation": "./.yarn/cache/has-symbols-npm-1.1.0-9aa7dc2ac1-959385c986.zip/node_modules/has-symbols/",\
         "packageDependencies": [\
+          ["has-symbols", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["has-tostringtag", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "./.yarn/cache/has-tostringtag-npm-1.0.2-74a4800369-c74c5f5cee.zip/node_modules/has-tostringtag/",\
+        "packageDependencies": [\
+          ["has-tostringtag", "npm:1.0.2"],\
           ["has-symbols", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
@@ -5833,7 +5858,7 @@ const RAW_RUNTIME_STATE =
           ["decimal.js", "npm:10.4.3"],\
           ["domexception", "npm:4.0.0"],\
           ["escodegen", "npm:2.1.0"],\
-          ["form-data", "npm:4.0.1"],\
+          ["form-data", "npm:4.0.4"],\
           ["html-encoding-sniffer", "npm:3.0.0"],\
           ["http-proxy-agent", "npm:5.0.0"],\
           ["https-proxy-agent", "npm:5.0.1"],\
