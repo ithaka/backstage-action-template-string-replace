@@ -193,7 +193,7 @@ const RAW_RUNTIME_STATE =
           ["@azure/msal-browser", "npm:4.5.0"],\
           ["@azure/msal-node", "npm:3.2.3"],\
           ["events", "npm:3.3.0"],\
-          ["jws", "npm:4.0.0"],\
+          ["jws", "npm:4.0.1"],\
           ["open", "npm:10.1.0"],\
           ["stoppable", "npm:1.1.0"],\
           ["tslib", "npm:2.8.1"]\
@@ -2960,7 +2960,7 @@ const RAW_RUNTIME_STATE =
           ["http-errors", "npm:2.0.0"],\
           ["iconv-lite", "npm:0.4.24"],\
           ["on-finished", "npm:2.4.1"],\
-          ["qs", "npm:6.13.0"],\
+          ["qs", "npm:6.14.1"],\
           ["raw-body", "npm:2.5.2"],\
           ["type-is", "npm:1.6.18"],\
           ["unpipe", "npm:1.0.0"]\
@@ -4244,7 +4244,7 @@ const RAW_RUNTIME_STATE =
           ["parseurl", "npm:1.3.3"],\
           ["path-to-regexp", "npm:0.1.12"],\
           ["proxy-addr", "npm:2.0.7"],\
-          ["qs", "npm:6.13.0"],\
+          ["qs", "npm:6.14.1"],\
           ["range-parser", "npm:1.2.1"],\
           ["safe-buffer", "npm:5.2.1"],\
           ["send", "npm:0.19.0"],\
@@ -6061,10 +6061,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.0", {\
-        "packageLocation": "./.yarn/cache/jwa-npm-2.0.0-52a7c3f1ca-ab983f6685.zip/node_modules/jwa/",\
+      ["npm:2.0.1", {\
+        "packageLocation": "./.yarn/cache/jwa-npm-2.0.1-9ebe28a626-b04312a1de.zip/node_modules/jwa/",\
         "packageDependencies": [\
-          ["jwa", "npm:2.0.0"],\
+          ["jwa", "npm:2.0.1"],\
           ["buffer-equal-constant-time", "npm:1.0.1"],\
           ["ecdsa-sig-formatter", "npm:1.0.11"],\
           ["safe-buffer", "npm:5.2.1"]\
@@ -6082,11 +6082,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.0.0", {\
-        "packageLocation": "./.yarn/cache/jws-npm-4.0.0-2a24fd53b9-1d15f4cdea.zip/node_modules/jws/",\
+      ["npm:4.0.1", {\
+        "packageLocation": "./.yarn/cache/jws-npm-4.0.1-0d8c257cbe-75d7b15748.zip/node_modules/jws/",\
         "packageDependencies": [\
-          ["jws", "npm:4.0.0"],\
-          ["jwa", "npm:2.0.0"],\
+          ["jws", "npm:4.0.1"],\
+          ["jwa", "npm:2.0.1"],\
           ["safe-buffer", "npm:5.2.1"]\
         ],\
         "linkType": "HARD"\
@@ -7378,10 +7378,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["qs", [\
-      ["npm:6.13.0", {\
-        "packageLocation": "./.yarn/cache/qs-npm-6.13.0-53676ddc84-f548b376e6.zip/node_modules/qs/",\
+      ["npm:6.14.1", {\
+        "packageLocation": "./.yarn/cache/qs-npm-6.14.1-2af4c28250-34b5ab00a9.zip/node_modules/qs/",\
         "packageDependencies": [\
-          ["qs", "npm:6.13.0"],\
+          ["qs", "npm:6.14.1"],\
           ["side-channel", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
