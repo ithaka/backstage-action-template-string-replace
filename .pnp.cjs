@@ -1137,7 +1137,7 @@ const RAW_RUNTIME_STATE =
           ["@backstage/catalog-model", "npm:1.7.3"],\
           ["@backstage/errors", "npm:1.2.7"],\
           ["@backstage/types", "npm:1.2.1"],\
-          ["ajv", "npm:8.17.1"],\
+          ["ajv", "npm:8.18.0"],\
           ["lodash", "npm:4.17.23"]\
         ],\
         "linkType": "HARD"\
@@ -2613,10 +2613,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["ajv", [\
-      ["npm:8.17.1", {\
-        "packageLocation": "./.yarn/cache/ajv-npm-8.17.1-12ade7edc6-ee3c62162c.zip/node_modules/ajv/",\
+      ["npm:8.18.0", {\
+        "packageLocation": "./.yarn/cache/ajv-npm-8.18.0-6e5e062765-bfed9de827.zip/node_modules/ajv/",\
         "packageDependencies": [\
-          ["ajv", "npm:8.17.1"],\
+          ["ajv", "npm:8.18.0"],\
           ["fast-deep-equal", "npm:3.1.3"],\
           ["fast-uri", "npm:3.0.6"],\
           ["json-schema-traverse", "npm:1.0.0"],\
