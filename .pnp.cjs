@@ -1162,6 +1162,16 @@ const RAW_RUNTIME_STATE =
           ["ms", "npm:2.1.3"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:1.3.6", {\
+        "packageLocation": "./.yarn/cache/@backstage-config-npm-1.3.6-58b5535617-668245a7eb.zip/node_modules/@backstage/config/",\
+        "packageDependencies": [\
+          ["@backstage/config", "npm:1.3.6"],\
+          ["@backstage/errors", "npm:1.2.7"],\
+          ["@backstage/types", "npm:1.2.2"],\
+          ["ms", "npm:2.1.3"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["@backstage/errors", [\
@@ -1176,13 +1186,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@backstage/integration", [\
-      ["npm:1.16.2", {\
-        "packageLocation": "./.yarn/cache/@backstage-integration-npm-1.16.2-ed4fda6b6c-fe7733dd24.zip/node_modules/@backstage/integration/",\
+      ["npm:1.20.1", {\
+        "packageLocation": "./.yarn/cache/@backstage-integration-npm-1.20.1-db640e6e33-7089debe41.zip/node_modules/@backstage/integration/",\
         "packageDependencies": [\
-          ["@backstage/integration", "npm:1.16.2"],\
+          ["@backstage/integration", "npm:1.20.1"],\
           ["@azure/identity", "npm:4.7.0"],\
           ["@azure/storage-blob", "npm:12.26.0"],\
-          ["@backstage/config", "npm:1.3.2"],\
+          ["@backstage/config", "npm:1.3.6"],\
           ["@backstage/errors", "npm:1.2.7"],\
           ["@octokit/auth-app", "npm:4.0.13"],\
           ["@octokit/rest", "npm:19.0.13"],\
@@ -1273,7 +1283,7 @@ const RAW_RUNTIME_STATE =
           ["@backstage/backend-plugin-api", "npm:1.2.1"],\
           ["@backstage/catalog-model", "npm:1.7.3"],\
           ["@backstage/errors", "npm:1.2.7"],\
-          ["@backstage/integration", "npm:1.16.2"],\
+          ["@backstage/integration", "npm:1.20.1"],\
           ["@backstage/plugin-scaffolder-common", "npm:1.5.10"],\
           ["@backstage/types", "npm:1.2.1"],\
           ["@isomorphic-git/pgp-plugin", "npm:0.0.7"],\
@@ -1297,6 +1307,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/@backstage-types-npm-1.2.1-ac5471af75-e3e65835b9.zip/node_modules/@backstage/types/",\
         "packageDependencies": [\
           ["@backstage/types", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:1.2.2", {\
+        "packageLocation": "./.yarn/cache/@backstage-types-npm-1.2.2-a6307ae931-813129ae2f.zip/node_modules/@backstage/types/",\
+        "packageDependencies": [\
+          ["@backstage/types", "npm:1.2.2"]\
         ],\
         "linkType": "HARD"\
       }]\
