@@ -172,7 +172,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/@azure-core-xml-npm-1.4.4-cc6e78ca26-83370ce350.zip/node_modules/@azure/core-xml/",\
         "packageDependencies": [\
           ["@azure/core-xml", "npm:1.4.4"],\
-          ["fast-xml-parser", "npm:4.5.3"],\
+          ["fast-xml-parser", "npm:4.5.5"],\
           ["tslib", "npm:2.8.1"]\
         ],\
         "linkType": "HARD"\
@@ -4334,10 +4334,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["fast-xml-parser", [\
-      ["npm:4.5.3", {\
-        "packageLocation": "./.yarn/cache/fast-xml-parser-npm-4.5.3-4c572a6316-ca22bf9d65.zip/node_modules/fast-xml-parser/",\
+      ["npm:4.5.5", {\
+        "packageLocation": "./.yarn/cache/fast-xml-parser-npm-4.5.5-784cfb6faf-4820da9216.zip/node_modules/fast-xml-parser/",\
         "packageDependencies": [\
-          ["fast-xml-parser", "npm:4.5.3"],\
+          ["fast-xml-parser", "npm:4.5.5"],\
           ["strnum", "npm:1.1.2"]\
         ],\
         "linkType": "HARD"\
