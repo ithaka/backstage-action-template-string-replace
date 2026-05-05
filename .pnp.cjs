@@ -1423,7 +1423,7 @@ const RAW_RUNTIME_STATE =
           ["@isomorphic-pgp/parser", "npm:0.0.3"],\
           ["array-buffer-to-hex", "npm:1.0.0"],\
           ["base64-js", "npm:1.5.1"],\
-          ["bn.js", "npm:4.12.1"],\
+          ["bn.js", "npm:4.12.3"],\
           ["clz-buffer", "npm:1.0.0"],\
           ["concat-buffers", "npm:1.0.0"],\
           ["crc", "npm:3.8.0"],\
@@ -2997,10 +2997,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["bn.js", [\
-      ["npm:4.12.1", {\
-        "packageLocation": "./.yarn/cache/bn.js-npm-4.12.1-024a57532b-07f22df888.zip/node_modules/bn.js/",\
+      ["npm:4.12.3", {\
+        "packageLocation": "./.yarn/cache/bn.js-npm-4.12.3-60404d953d-57ed5a055f.zip/node_modules/bn.js/",\
         "packageDependencies": [\
-          ["bn.js", "npm:4.12.1"]\
+          ["bn.js", "npm:4.12.3"]\
         ],\
         "linkType": "HARD"\
       }]\
