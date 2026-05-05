@@ -4339,7 +4339,7 @@ const RAW_RUNTIME_STATE =
           ["methods", "npm:1.1.2"],\
           ["on-finished", "npm:2.4.1"],\
           ["parseurl", "npm:1.3.3"],\
-          ["path-to-regexp", "npm:0.1.12"],\
+          ["path-to-regexp", "npm:0.1.13"],\
           ["proxy-addr", "npm:2.0.7"],\
           ["qs", "npm:6.14.2"],\
           ["range-parser", "npm:1.2.1"],\
@@ -7320,10 +7320,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["path-to-regexp", [\
-      ["npm:0.1.12", {\
-        "packageLocation": "./.yarn/cache/path-to-regexp-npm-0.1.12-a9bf1de212-2e30f6a014.zip/node_modules/path-to-regexp/",\
+      ["npm:0.1.13", {\
+        "packageLocation": "./.yarn/cache/path-to-regexp-npm-0.1.13-53f2083228-f1e4bdedc4.zip/node_modules/path-to-regexp/",\
         "packageDependencies": [\
-          ["path-to-regexp", "npm:0.1.12"]\
+          ["path-to-regexp", "npm:0.1.13"]\
         ],\
         "linkType": "HARD"\
       }]\
