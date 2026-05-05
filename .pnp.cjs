@@ -1129,7 +1129,7 @@ const RAW_RUNTIME_STATE =
           ["@backstage/errors", "npm:1.2.7"],\
           ["@backstage/filter-predicates", "npm:0.1.1"],\
           ["cross-fetch", "npm:4.1.0"],\
-          ["lodash", "npm:4.17.23"],\
+          ["lodash", "npm:4.18.1"],\
           ["uri-template", "npm:2.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -1143,7 +1143,7 @@ const RAW_RUNTIME_STATE =
           ["@backstage/errors", "npm:1.2.7"],\
           ["@backstage/types", "npm:1.2.2"],\
           ["ajv", "npm:8.17.1"],\
-          ["lodash", "npm:4.17.23"]\
+          ["lodash", "npm:4.18.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1211,7 +1211,7 @@ const RAW_RUNTIME_STATE =
           ["@octokit/rest", "npm:19.0.13"],\
           ["cross-fetch", "npm:4.1.0"],\
           ["git-url-parse", "npm:15.0.0"],\
-          ["lodash", "npm:4.17.23"],\
+          ["lodash", "npm:4.18.1"],\
           ["luxon", "npm:3.5.0"]\
         ],\
         "linkType": "HARD"\
@@ -1232,7 +1232,7 @@ const RAW_RUNTIME_STATE =
           ["@types/passport", "npm:1.0.17"],\
           ["express", "npm:4.22.1"],\
           ["jose", "npm:5.10.0"],\
-          ["lodash", "npm:4.17.23"],\
+          ["lodash", "npm:4.18.1"],\
           ["passport", "npm:0.7.0"],\
           ["zod", "npm:4.3.6"],\
           ["zod-to-json-schema", "virtual:f09213f308676f9c904b97d0b088ebc555eea0ba2cd6aa477152742cbc67f381d91fdd276f2487e4ee6d1c169b3bda98733dc320d37ddec6cfa2e574ade626c2#npm:3.25.1"],\
@@ -1314,7 +1314,7 @@ const RAW_RUNTIME_STATE =
           ["globby", "npm:11.1.0"],\
           ["isomorphic-git", "npm:1.29.0"],\
           ["jsonschema", "npm:1.5.0"],\
-          ["lodash", "npm:4.17.23"],\
+          ["lodash", "npm:4.18.1"],\
           ["p-limit", "npm:3.1.0"],\
           ["tar", "npm:6.2.1"],\
           ["winston", "npm:3.17.0"],\
@@ -6270,7 +6270,7 @@ const RAW_RUNTIME_STATE =
           ["get-package-type", "npm:0.1.0"],\
           ["getopts", "npm:2.3.0"],\
           ["interpret", "npm:2.2.0"],\
-          ["lodash", "npm:4.17.23"],\
+          ["lodash", "npm:4.18.1"],\
           ["mysql", null],\
           ["mysql2", null],\
           ["pg", null],\
@@ -6383,10 +6383,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["lodash", [\
-      ["npm:4.17.23", {\
-        "packageLocation": "./.yarn/cache/lodash-npm-4.17.23-50bdb1c01a-82504c8825.zip/node_modules/lodash/",\
+      ["npm:4.18.1", {\
+        "packageLocation": "./.yarn/cache/lodash-npm-4.18.1-a64c3070ac-306fea53df.zip/node_modules/lodash/",\
         "packageDependencies": [\
-          ["lodash", "npm:4.17.23"]\
+          ["lodash", "npm:4.18.1"]\
         ],\
         "linkType": "HARD"\
       }]\
