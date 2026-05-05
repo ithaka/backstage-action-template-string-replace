@@ -4769,7 +4769,7 @@ const RAW_RUNTIME_STATE =
           ["fs.realpath", "npm:1.0.0"],\
           ["inflight", "npm:1.0.6"],\
           ["inherits", "npm:2.0.4"],\
-          ["minimatch", "npm:3.1.2"],\
+          ["minimatch", "npm:3.1.5"],\
           ["once", "npm:1.4.0"],\
           ["path-is-absolute", "npm:1.0.1"]\
         ],\
@@ -5448,7 +5448,7 @@ const RAW_RUNTIME_STATE =
           ["async", "npm:3.2.6"],\
           ["chalk", "npm:4.1.2"],\
           ["filelist", "npm:1.0.4"],\
-          ["minimatch", "npm:3.1.2"]\
+          ["minimatch", "npm:3.1.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -6721,10 +6721,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["minimatch", [\
-      ["npm:3.1.2", {\
-        "packageLocation": "./.yarn/cache/minimatch-npm-3.1.2-9405269906-e0b25b04cd.zip/node_modules/minimatch/",\
+      ["npm:3.1.5", {\
+        "packageLocation": "./.yarn/cache/minimatch-npm-3.1.5-86958baf50-b11a7ee577.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["minimatch", "npm:3.1.2"],\
+          ["minimatch", "npm:3.1.5"],\
           ["brace-expansion", "npm:1.1.11"]\
         ],\
         "linkType": "HARD"\
@@ -8415,7 +8415,7 @@ const RAW_RUNTIME_STATE =
           ["test-exclude", "npm:6.0.0"],\
           ["@istanbuljs/schema", "npm:0.1.3"],\
           ["glob", "npm:7.2.3"],\
-          ["minimatch", "npm:3.1.2"]\
+          ["minimatch", "npm:3.1.5"]\
         ],\
         "linkType": "HARD"\
       }]\
