@@ -1156,7 +1156,7 @@ const RAW_RUNTIME_STATE =
           ["@backstage/errors", "npm:1.2.7"],\
           ["cross-spawn", "npm:7.0.6"],\
           ["global-agent", "npm:3.0.0"],\
-          ["undici", "npm:7.24.6"]\
+          ["undici", "npm:7.29.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -8663,10 +8663,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["undici", [\
-      ["npm:7.24.6", {\
-        "packageLocation": "./.yarn/cache/undici-npm-7.24.6-57102c8005-9c8df67428.zip/node_modules/undici/",\
+      ["npm:7.29.0", {\
+        "packageLocation": "./.yarn/cache/undici-npm-7.29.0-561de03d83-ca73639071.zip/node_modules/undici/",\
         "packageDependencies": [\
-          ["undici", "npm:7.24.6"]\
+          ["undici", "npm:7.29.0"]\
         ],\
         "linkType": "HARD"\
       }]\
